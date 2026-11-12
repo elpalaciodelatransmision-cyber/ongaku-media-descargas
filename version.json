@@ -1,7 +1,7 @@
 {
-  "version": "0.11.0",
-  "compilacion": 14,
-  "android": "https://github.com/elpalaciodelatransmision-cyber/ongaku-media-descargas/releases/download/v0.11.0/ONGAKU-MEDIA.apk",
-  "windows": "https://github.com/elpalaciodelatransmision-cyber/ongaku-media-descargas/releases/download/v0.11.0/ONGAKU-MEDIA-Windows.zip",
+  "version": "0.12.0",
+  "compilacion": 15,
+  "android": "https://github.com/elpalaciodelatransmision-cyber/ongaku-media-descargas/releases/download/v0.12.0/ONGAKU-MEDIA.apk",
+  "windows": "https://github.com/elpalaciodelatransmision-cyber/ongaku-media-descargas/releases/download/v0.12.0/ONGAKU-MEDIA-Windows.zip",
   "notas": ""
 }
